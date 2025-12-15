@@ -1,0 +1,58 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    height:50px;
+    background-color:rgb(234, 136, 109);
+    border: 2px solid transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.background{
+    background-color: blue;
+}
+.background_button{
+    height: 50px;
+    width:115px;
+    background-color:transparent;
+    font-size:medium;
+    border: 0px;
+
+}
+.background_sound{
+    height: 50px;
+    width:70px;
+    background-color:transparent;
+    font-size:medium;
+    border: 0px;
+    
+}
+.pomodoro{
+    width:2000px;
+    text-align: center;
+    font-size: 70px;
+}
+.timer{
+    font-size:100px;
+
+}
+.heading{
+    font-size:60px;
+    align-content:center;
+    align-items: center;
+
+
+}
+.box2{
+    background-color: aquamarine;
+    align-items: center;
+} */
